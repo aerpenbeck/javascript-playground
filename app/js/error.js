@@ -5,7 +5,7 @@ const JSTest = (function () {
     return {
         getVersion: function () {
             return version;
-        }
+        },
         produceError: function () {
             return foo.length;
         }
