@@ -1,0 +1,32 @@
+target/
+
+# Eclipse stuff
+.classpath
+.directory
+.metadata
+.project
+.externalToolBuilders/
+.settings/
+
+# NetBeans stuff
+nb-configuration.xml
+nbactions.xml
+
+# IntelliJ stuff
+.idea/
+*.iml
+
+# Temporary stuff
+*.tmp
+*.bak
+*.swp
+*~
+
+# Java stuff
+*.class
+*.jar
+*.war
+*.ear
+
+# Node stuff
+node_modules/
